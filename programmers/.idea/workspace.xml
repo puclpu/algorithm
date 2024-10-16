@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="PropertiesComponent">{}</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.리코쳇로봇">
     <configuration name="우박수열정적분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.우박수열정적분" />
       <module name="programmers" />
@@ -15,8 +15,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="리코쳇로봇" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.리코쳇로봇" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.리코쳇로봇" />
         <item itemvalue="Application.우박수열정적분" />
       </list>
     </recent_temporary>
