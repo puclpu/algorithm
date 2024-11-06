@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-10-16] 점찍기">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/퍼즐게임챌린지.java" afterDir="false" />
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-10-22] 퍼즐게임챌린지">
+      <change afterPath="$PROJECT_DIR$/src/Lv2/후보키.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,33 +43,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.리코쳇로봇.executor": "Run",
-    "Application.우박수열정적분.executor": "Run",
-    "Application.점찍기.executor": "Run",
-    "Application.퍼즐게임챌린지.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kimchaerin/학습/algorithm/programmers/src/Lv2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/kimchaerin/학습/algorithm/programmers/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.리코쳇로봇.executor&quot;: &quot;Run&quot;,
+    &quot;Application.우박수열정적분.executor&quot;: &quot;Run&quot;,
+    &quot;Application.점찍기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.퍼즐게임챌린지.executor&quot;: &quot;Run&quot;,
+    &quot;Application.후보키.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kimchaerin/학습/algorithm/programmers/src/Lv2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kimchaerin/학습/algorithm/programmers/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.퍼즐게임챌린지">
+  <component name="RunManager">
     <configuration name="우박수열정적분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.우박수열정적분" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="후보키" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.후보키" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -135,7 +149,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.퍼즐게임챌린지" />
         <item itemvalue="Application.우박수열정적분" />
       </list>
     </recent_temporary>
@@ -159,7 +172,9 @@
       <workItem from="1729069968240" duration="921000" />
       <workItem from="1729077549667" duration="4274000" />
       <workItem from="1729515597442" duration="5400000" />
-      <workItem from="1729584113748" duration="1185000" />
+      <workItem from="1729584113748" duration="1273000" />
+      <workItem from="1729926509608" duration="6072000" />
+      <workItem from="1730563018194" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -193,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729082234608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[2024-10-22] 퍼즐게임챌린지">
+      <option name="closed" value="true" />
+      <created>1729585378391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729585378391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +238,8 @@
     <MESSAGE value="[2024-10-10] 우박수열정적분" />
     <MESSAGE value="[2024-10-15] 리코쳇로봇" />
     <MESSAGE value="[2024-10-16] 점찍기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2024-10-16] 점찍기" />
+    <MESSAGE value="[2024-10-22] 퍼즐게임챌린지" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2024-10-22] 퍼즐게임챌린지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
