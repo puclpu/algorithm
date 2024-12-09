@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-10-22] 퍼즐게임챌린지">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/후보키.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv2/올바른괄호.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,9 +68,22 @@
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.올바른괄호">
     <configuration name="우박수열정적분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.우박수열정적분" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.올바른괄호" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -149,6 +162,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.올바른괄호" />
         <item itemvalue="Application.우박수열정적분" />
       </list>
     </recent_temporary>
@@ -175,6 +189,9 @@
       <workItem from="1729584113748" duration="1273000" />
       <workItem from="1729926509608" duration="6072000" />
       <workItem from="1730563018194" duration="31000" />
+      <workItem from="1733058945848" duration="22000" />
+      <workItem from="1733058985708" duration="625000" />
+      <workItem from="1733706211560" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
