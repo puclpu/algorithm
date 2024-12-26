@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-13]숫자의표현">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/다음큰숫자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No2.java" afterDir="false" />
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-24]다음큰숫자">
+      <change afterPath="$PROJECT_DIR$/src/Lv2/피보나치수.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,39 +44,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.JadenCase문자열만들기.executor": "Run",
-    "Application.No1.executor": "Run",
-    "Application.No2.executor": "Run",
-    "Application.다음큰숫자.executor": "Run",
-    "Application.리코쳇로봇.executor": "Run",
-    "Application.숫자의표현.executor": "Run",
-    "Application.올바른괄호.executor": "Run",
-    "Application.우박수열정적분.executor": "Run",
-    "Application.이진변환반복하기.executor": "Run",
-    "Application.점찍기.executor": "Run",
-    "Application.퍼즐게임챌린지.executor": "Run",
-    "Application.후보키.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kimchaerin/학습/algorithm/programmers/src/Lv2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/kimchaerin/학습/algorithm/programmers/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JadenCase문자열만들기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.다음큰숫자.executor&quot;: &quot;Run&quot;,
+    &quot;Application.리코쳇로봇.executor&quot;: &quot;Run&quot;,
+    &quot;Application.숫자의표현.executor&quot;: &quot;Run&quot;,
+    &quot;Application.올바른괄호.executor&quot;: &quot;Run&quot;,
+    &quot;Application.우박수열정적분.executor&quot;: &quot;Run&quot;,
+    &quot;Application.이진변환반복하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.점찍기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.퍼즐게임챌린지.executor&quot;: &quot;Run&quot;,
+    &quot;Application.후보키.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kimchaerin/학습/algorithm/programmers/src/Lv2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kimchaerin/학습/algorithm/programmers/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.다음큰숫자">
+  <component name="RunManager" selected="Application.피보나치수">
     <configuration name="우박수열정적분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.우박수열정적분" />
       <module name="programmers" />
@@ -90,10 +90,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="다음큰숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.다음큰숫자" />
+    <configuration name="피보나치수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.피보나치수" />
       <module name="programmers" />
-      <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lv2.*" />
@@ -127,6 +126,59 @@
     <configuration name="No2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No2" />
       <module name="programmers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="점찍기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.점찍기" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="리코쳇로봇" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.리코쳇로봇" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="다음큰숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.다음큰숫자" />
+      <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,55 +248,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="점찍기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.점찍기" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="리코쳇로봇" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.리코쳇로봇" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.피보나치수" />
       <item itemvalue="Application.JadenCase문자열만들기" />
       <item itemvalue="Application.No1" />
       <item itemvalue="Application.No2" />
-      <item itemvalue="Application.다음큰숫자" />
       <item itemvalue="Application.우박수열정적분" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.다음큰숫자" />
+        <item itemvalue="Application.피보나치수" />
         <item itemvalue="Application.No2" />
         <item itemvalue="Application.No1" />
         <item itemvalue="Application.JadenCase문자열만들기" />
@@ -280,7 +293,10 @@
       <workItem from="1733965915911" duration="196000" />
       <workItem from="1734054257057" duration="1331000" />
       <workItem from="1734690897428" duration="2446000" />
-      <workItem from="1735003988736" duration="1311000" />
+      <workItem from="1735003988736" duration="1480000" />
+      <workItem from="1735015619845" duration="73000" />
+      <workItem from="1735031055296" duration="291000" />
+      <workItem from="1735177117886" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -354,7 +370,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734055581656</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[2024-12-24]다음큰숫자">
+      <option name="closed" value="true" />
+      <created>1735005380132</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735005380132</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[2024-12-24]다음큰숫자">
+      <option name="closed" value="true" />
+      <created>1735005438818</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735005438818</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +413,8 @@
     <MESSAGE value="[2024-12-09]JadenCase문자열만들기" />
     <MESSAGE value="[2024-12-12]이진변환반복하기" />
     <MESSAGE value="[2024-12-13]숫자의표현" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-13]숫자의표현" />
+    <MESSAGE value="[2024-12-24]다음큰숫자" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-24]다음큰숫자" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
