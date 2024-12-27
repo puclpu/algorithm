@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-24]다음큰숫자">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/피보나치수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-26]피보나치수" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +54,7 @@
     &quot;Application.이진변환반복하기.executor&quot;: &quot;Run&quot;,
     &quot;Application.점찍기.executor&quot;: &quot;Run&quot;,
     &quot;Application.퍼즐게임챌린지.executor&quot;: &quot;Run&quot;,
+    &quot;Application.피보나치수.executor&quot;: &quot;Run&quot;,
     &quot;Application.후보키.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -76,7 +74,7 @@
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.피보나치수">
+  <component name="RunManager" selected="Application.짝지어제거하기">
     <configuration name="우박수열정적분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.우박수열정적분" />
       <module name="programmers" />
@@ -90,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="피보나치수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.피보나치수" />
+    <configuration name="짝지어제거하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.짝지어제거하기" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -126,6 +124,45 @@
     <configuration name="No2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No2" />
       <module name="programmers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="후보키" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.후보키" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="피보나치수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.피보나치수" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -222,34 +259,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="후보키" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.후보키" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.피보나치수" />
+      <item itemvalue="Application.짝지어제거하기" />
       <item itemvalue="Application.JadenCase문자열만들기" />
       <item itemvalue="Application.No1" />
       <item itemvalue="Application.No2" />
@@ -257,7 +268,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.피보나치수" />
+        <item itemvalue="Application.짝지어제거하기" />
         <item itemvalue="Application.No2" />
         <item itemvalue="Application.No1" />
         <item itemvalue="Application.JadenCase문자열만들기" />
@@ -296,7 +307,7 @@
       <workItem from="1735003988736" duration="1480000" />
       <workItem from="1735015619845" duration="73000" />
       <workItem from="1735031055296" duration="291000" />
-      <workItem from="1735177117886" duration="83000" />
+      <workItem from="1735177117886" duration="119000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -386,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735005438818</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[2024-12-26]피보나치수">
+      <option name="closed" value="true" />
+      <created>1735177223511</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735177223511</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +433,8 @@
     <MESSAGE value="[2024-12-12]이진변환반복하기" />
     <MESSAGE value="[2024-12-13]숫자의표현" />
     <MESSAGE value="[2024-12-24]다음큰숫자" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-24]다음큰숫자" />
+    <MESSAGE value="[2024-12-26]피보나치수" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-26]피보나치수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
