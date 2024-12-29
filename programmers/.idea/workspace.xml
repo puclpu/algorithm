@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-29]영어끝말잇기">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/튜플.java" afterDir="false" />
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-29]튜플">
+      <change afterPath="$PROJECT_DIR$/src/Lv2/과제진행하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.No1.executor": "Run",
     "Application.No2.executor": "Run",
     "Application.N개의최소공배수.executor": "Run",
+    "Application.과제진행하기.executor": "Debug",
     "Application.구명보트.executor": "Run",
     "Application.귤고르기.executor": "Run",
     "Application.다음큰숫자.executor": "Run",
@@ -83,9 +84,9 @@
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.튜플">
-    <configuration name="다음큰숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.다음큰숫자" />
+  <component name="RunManager" selected="Application.과제진행하기">
+    <configuration name="과제진행하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.과제진행하기" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -311,19 +312,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.과제진행하기" />
       <item itemvalue="Application.튜플" />
       <item itemvalue="Application.영어끝말잇기" />
       <item itemvalue="Application.구명보트" />
       <item itemvalue="Application.N개의최소공배수" />
-      <item itemvalue="Application.다음큰숫자" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.과제진행하기" />
         <item itemvalue="Application.튜플" />
         <item itemvalue="Application.영어끝말잇기" />
         <item itemvalue="Application.구명보트" />
         <item itemvalue="Application.N개의최소공배수" />
-        <item itemvalue="Application.다음큰숫자" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +364,7 @@
       <workItem from="1735264106321" duration="11000" />
       <workItem from="1735349198524" duration="1167000" />
       <workItem from="1735374556631" duration="5523000" />
-      <workItem from="1735454174110" duration="4346000" />
+      <workItem from="1735454174110" duration="9505000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -501,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735461542052</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="[2024-12-29]튜플">
+      <option name="closed" value="true" />
+      <created>1735463132274</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735463132274</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +544,8 @@
     <MESSAGE value="[2024-12-28]귤고르기" />
     <MESSAGE value="[2024-12-29]구명보트" />
     <MESSAGE value="[2024-12-29]영어끝말잇기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-29]영어끝말잇기" />
+    <MESSAGE value="[2024-12-29]튜플" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-29]튜플" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
