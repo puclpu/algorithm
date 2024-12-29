@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-29]구명보트">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/영어끝말잇기.java" afterDir="false" />
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-29]영어끝말잇기">
+      <change afterPath="$PROJECT_DIR$/src/Lv2/튜플.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Application.이진변환반복하기.executor": "Run",
     "Application.점찍기.executor": "Run",
     "Application.짝지어제거하기.executor": "Run",
+    "Application.튜플.executor": "Run",
     "Application.퍼즐게임챌린지.executor": "Run",
     "Application.피보나치수.executor": "Run",
     "Application.후보키.executor": "Run",
@@ -82,7 +83,7 @@
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.영어끝말잇기">
+  <component name="RunManager" selected="Application.튜플">
     <configuration name="다음큰숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.다음큰숫자" />
       <module name="programmers" />
@@ -124,10 +125,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N개의최소공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.N개의최소공배수" />
+    <configuration name="튜플" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.튜플" />
       <module name="programmers" />
-      <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lv2.*" />
@@ -138,9 +138,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No2" />
+    <configuration name="N개의최소공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.N개의최소공배수" />
       <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -304,19 +311,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.튜플" />
       <item itemvalue="Application.영어끝말잇기" />
       <item itemvalue="Application.구명보트" />
       <item itemvalue="Application.N개의최소공배수" />
       <item itemvalue="Application.다음큰숫자" />
-      <item itemvalue="Application.No2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.튜플" />
         <item itemvalue="Application.영어끝말잇기" />
         <item itemvalue="Application.구명보트" />
         <item itemvalue="Application.N개의최소공배수" />
         <item itemvalue="Application.다음큰숫자" />
-        <item itemvalue="Application.No2" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +363,7 @@
       <workItem from="1735264106321" duration="11000" />
       <workItem from="1735349198524" duration="1167000" />
       <workItem from="1735374556631" duration="5523000" />
-      <workItem from="1735454174110" duration="2808000" />
+      <workItem from="1735454174110" duration="4346000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -486,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735455326933</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="[2024-12-29]영어끝말잇기">
+      <option name="closed" value="true" />
+      <created>1735461542052</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735461542052</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +534,8 @@
     <MESSAGE value="[2024-12-28]N개의최소공배수" />
     <MESSAGE value="[2024-12-28]귤고르기" />
     <MESSAGE value="[2024-12-29]구명보트" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-29]구명보트" />
+    <MESSAGE value="[2024-12-29]영어끝말잇기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-29]영어끝말잇기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
