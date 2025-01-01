@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2024-12-29]과제진행하기">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/멀리뛰기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lv3/가장먼노드.java" afterDir="false" />
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2025-01-01]멀리뛰기">
+      <change afterPath="$PROJECT_DIR$/src/Lv2/예상대진표.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,7 @@
     "Application.멀리뛰기.executor": "Run",
     "Application.숫자의표현.executor": "Run",
     "Application.영어끝말잇기.executor": "Run",
+    "Application.예상대진표.executor": "Run",
     "Application.올바른괄호.executor": "Run",
     "Application.우박수열정적분.executor": "Run",
     "Application.이진변환반복하기.executor": "Run",
@@ -86,7 +86,7 @@
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.멀리뛰기">
+  <component name="RunManager" selected="Application.예상대진표">
     <configuration name="과제진행하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.과제진행하기" />
       <module name="programmers" />
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="멀리뛰기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.멀리뛰기" />
+    <configuration name="예상대진표" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.예상대진표" />
       <module name="programmers" />
       <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
@@ -118,98 +118,6 @@
       <option name="MAIN_CLASS_NAME" value="Lv2.N개의최소공배수" />
       <module name="programmers" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="피보나치수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.피보나치수" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="점찍기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.점찍기" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="리코쳇로봇" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.리코쳇로봇" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="다음큰숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.다음큰숫자" />
-      <module name="programmers" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="숫자의표현" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.숫자의표현" />
-      <module name="programmers" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lv2.*" />
@@ -327,14 +235,120 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="멀리뛰기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.멀리뛰기" />
+      <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="피보나치수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.피보나치수" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="퍼즐게임챌린지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.퍼즐게임챌린지" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="점찍기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.점찍기" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="리코쳇로봇" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.리코쳇로봇" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="다음큰숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.다음큰숫자" />
+      <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자의표현" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.숫자의표현" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.멀리뛰기" />
+      <item itemvalue="Application.예상대진표" />
       <item itemvalue="Application.과제진행하기" />
       <item itemvalue="Application.N개의최소공배수" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.멀리뛰기" />
+        <item itemvalue="Application.예상대진표" />
         <item itemvalue="Application.과제진행하기" />
         <item itemvalue="Application.N개의최소공배수" />
       </list>
@@ -377,7 +391,8 @@
       <workItem from="1735349198524" duration="1167000" />
       <workItem from="1735374556631" duration="5523000" />
       <workItem from="1735454174110" duration="10354000" />
-      <workItem from="1735738672100" duration="633000" />
+      <workItem from="1735738672100" duration="724000" />
+      <workItem from="1735739431427" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -531,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735474584906</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[2025-01-01]멀리뛰기">
+      <option name="closed" value="true" />
+      <created>1735739377213</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735739377213</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +590,8 @@
     <MESSAGE value="[2024-12-29]영어끝말잇기" />
     <MESSAGE value="[2024-12-29]튜플" />
     <MESSAGE value="[2024-12-29]과제진행하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2024-12-29]과제진행하기" />
+    <MESSAGE value="[2025-01-01]멀리뛰기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2025-01-01]멀리뛰기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
