@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2025-01-01]멀리뛰기">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/예상대진표.java" afterDir="false" />
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2025-01-01]예상대진표">
+      <change afterPath="$PROJECT_DIR$/src/Lv2/연속부분수열합의개수.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Application.리코쳇로봇.executor": "Run",
     "Application.멀리뛰기.executor": "Run",
     "Application.숫자의표현.executor": "Run",
+    "Application.연속부분수열합의개수.executor": "Run",
     "Application.영어끝말잇기.executor": "Run",
     "Application.예상대진표.executor": "Run",
     "Application.올바른괄호.executor": "Run",
@@ -86,7 +87,7 @@
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.예상대진표">
+  <component name="RunManager" selected="Application.연속부분수열합의개수">
     <configuration name="과제진행하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.과제진행하기" />
       <module name="programmers" />
@@ -100,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="예상대진표" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.예상대진표" />
+    <configuration name="연속부분수열합의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.연속부분수열합의개수" />
       <module name="programmers" />
       <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
@@ -118,99 +119,6 @@
       <option name="MAIN_CLASS_NAME" value="Lv2.N개의최소공배수" />
       <module name="programmers" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="구명보트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.구명보트" />
-      <module name="programmers" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.영어끝말잇기" />
-      <module name="programmers" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="튜플" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.튜플" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이진변환반복하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.이진변환반복하기" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.올바른괄호" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="짝지어제거하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.짝지어제거하기" />
-      <module name="programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="후보키" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2.후보키" />
-      <module name="programmers" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lv2.*" />
@@ -341,14 +249,121 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="예상대진표" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.예상대진표" />
+      <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="구명보트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.구명보트" />
+      <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.영어끝말잇기" />
+      <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="튜플" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.튜플" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진변환반복하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.이진변환반복하기" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.올바른괄호" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="짝지어제거하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.짝지어제거하기" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="후보키" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.후보키" />
+      <module name="programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.예상대진표" />
+      <item itemvalue="Application.연속부분수열합의개수" />
       <item itemvalue="Application.과제진행하기" />
       <item itemvalue="Application.N개의최소공배수" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.예상대진표" />
+        <item itemvalue="Application.연속부분수열합의개수" />
         <item itemvalue="Application.과제진행하기" />
         <item itemvalue="Application.N개의최소공배수" />
       </list>
@@ -392,7 +407,8 @@
       <workItem from="1735374556631" duration="5523000" />
       <workItem from="1735454174110" duration="10354000" />
       <workItem from="1735738672100" duration="724000" />
-      <workItem from="1735739431427" duration="738000" />
+      <workItem from="1735739431427" duration="853000" />
+      <workItem from="1735784274054" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -554,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735739377213</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="[2025-01-01]예상대진표">
+      <option name="closed" value="true" />
+      <created>1735740264588</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735740264589</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +615,8 @@
     <MESSAGE value="[2024-12-29]튜플" />
     <MESSAGE value="[2024-12-29]과제진행하기" />
     <MESSAGE value="[2025-01-01]멀리뛰기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2025-01-01]멀리뛰기" />
+    <MESSAGE value="[2025-01-01]예상대진표" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2025-01-01]예상대진표" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
