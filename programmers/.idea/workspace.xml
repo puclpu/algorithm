@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2025-01-01]예상대진표">
-      <change afterPath="$PROJECT_DIR$/src/Lv2/연속부분수열합의개수.java" afterDir="false" />
+    <list default="true" id="479195fc-e48a-4cda-afe0-a762dbbbd93f" name="Changes" comment="[2025-01-02]연속부분수열합의개수">
+      <change afterPath="$PROJECT_DIR$/src/Lv2/괄호회전하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Application.No2.executor": "Run",
     "Application.N개의최소공배수.executor": "Run",
     "Application.과제진행하기.executor": "Run",
+    "Application.괄호회전하기.executor": "Run",
     "Application.구명보트.executor": "Run",
     "Application.귤고르기.executor": "Run",
     "Application.다음큰숫자.executor": "Run",
@@ -87,7 +88,7 @@
       <recent name="$PROJECT_DIR$/src/Lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.연속부분수열합의개수">
+  <component name="RunManager" selected="Application.괄호회전하기">
     <configuration name="과제진행하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.과제진행하기" />
       <module name="programmers" />
@@ -103,6 +104,20 @@
     </configuration>
     <configuration name="연속부분수열합의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2.연속부분수열합의개수" />
+      <module name="programmers" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="괄호회전하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2.괄호회전하기" />
       <module name="programmers" />
       <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
@@ -357,12 +372,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.괄호회전하기" />
       <item itemvalue="Application.연속부분수열합의개수" />
       <item itemvalue="Application.과제진행하기" />
       <item itemvalue="Application.N개의최소공배수" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.괄호회전하기" />
         <item itemvalue="Application.연속부분수열합의개수" />
         <item itemvalue="Application.과제진행하기" />
         <item itemvalue="Application.N개의최소공배수" />
@@ -408,7 +425,7 @@
       <workItem from="1735454174110" duration="10354000" />
       <workItem from="1735738672100" duration="724000" />
       <workItem from="1735739431427" duration="853000" />
-      <workItem from="1735784274054" duration="567000" />
+      <workItem from="1735784274054" duration="1965000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -578,7 +595,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735740264589</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[2025-01-02]연속부분수열합의개수">
+      <option name="closed" value="true" />
+      <created>1735785009979</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735785009979</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,7 +641,8 @@
     <MESSAGE value="[2024-12-29]과제진행하기" />
     <MESSAGE value="[2025-01-01]멀리뛰기" />
     <MESSAGE value="[2025-01-01]예상대진표" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2025-01-01]예상대진표" />
+    <MESSAGE value="[2025-01-02]연속부분수열합의개수" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2025-01-02]연속부분수열합의개수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
